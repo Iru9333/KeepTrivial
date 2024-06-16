@@ -1,0 +1,30 @@
+¿Qué técnica se utiliza para enseñar a una máquina mediante ejemplos?
+Machine Learning
+Quantum Computing
+Blockchain
+Data Mining
+1
+¿Qué es el "aprendizaje supervisado" en el contexto del aprendizaje automático?
+Un tipo de aprendizaje automático sin necesidad de datos etiquetados
+Un tipo de aprendizaje automático donde el modelo se entrena con datos etiquetados
+Un método para mejorar la eficiencia energética de los dispositivos
+Un algoritmo que permite supervisar la base de conocimiento 
+2
+¿Qué es una red neuronal en el contexto de la inteligencia artificial?
+Un tipo de base de datos relacional
+Un conjunto de algoritmos diseñados para reconocer patrones
+Un método de compresión de datos
+Un protocolo de red para la transferencia de datos
+2
+¿Cuál es el objetivo principal del procesamiento del lenguaje natural (NLP)?
+Traducir lenguajes de programación
+Crear bases de datos más eficientes
+Permitir que las máquinas comprendan y procesen el lenguaje humano
+Optimizar el rendimiento de las redes neuronales
+3
+¿Qué es un "algoritmo genético" en el campo de la inteligencia artificial?
+Un algoritmo que utiliza la evolución y selección natural para encontrar soluciones óptimas
+Un algoritmo utilizado para el cifrado de datos
+Un algoritmo diseñado para la búsqueda de errores en código
+Un algoritmo que traduce lenguajes de programación
+1
